@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        ampersand-template
+        nuxt-template
       </h1>
       <h2 class="subtitle">
-        ampersand-template
+        nuxt-template
       </h2>
       <div class="links">
         <a

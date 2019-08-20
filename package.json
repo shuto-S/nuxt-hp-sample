@@ -1,7 +1,7 @@
 {
-  "name": "ampersand-template",
+  "name": "nuxt-template",
   "version": "1.0.0",
-  "description": "ampersand-template",
+  "description": "nuxt-template",
   "author": "shuto",
   "private": true,
   "scripts": {

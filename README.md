@@ -1,6 +1,6 @@
-# ampersand-template
+# nuxt-template
 
-> ampersand-template
+> nuxt-template
 
 ## Build Setup
 
